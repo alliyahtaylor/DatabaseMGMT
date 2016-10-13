@@ -1,5 +1,5 @@
 --Alliyah Taylor
---Lab 5
+--Lab 6
 --10/12/2016
 
 -- Name and city of customers who live in ANY city that makes the MOST different kinds of products
